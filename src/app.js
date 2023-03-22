@@ -1,6 +1,6 @@
 import './select.scss'
 
-import {Select} from './class/select.v1.js'
+// import {Select} from './class/select.v1.js'
 import {Select} from './class/select.v2.js'
 
 // const select = new Select('#select1', {
